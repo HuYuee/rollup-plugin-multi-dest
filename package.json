@@ -1,0 +1,22 @@
+{
+  "name": "rollup-plugin-multi-dest",
+  "version": "1.0.0",
+  "description": "Enables multiple destination within a single rollup configuration.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuYuee/rollup-plugin-multi-dest.git"
+  },
+  "author": "huyue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuYuee/rollup-plugin-multi-dest/issues"
+  },
+  "homepage": "https://github.com/HuYuee/rollup-plugin-multi-dest#readme",
+  "devDependencies": {
+    "deepmerge": "^1.3.2",
+    "rollup": "^0.41.6"
+  }
+}
